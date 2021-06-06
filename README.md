@@ -1,2 +1,2 @@
-# Project-42
-PRO-C42: TICK TOCK
+# p5.play-boilerplate
+Boiler plate for p5.play
